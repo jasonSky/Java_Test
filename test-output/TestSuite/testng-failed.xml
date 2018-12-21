@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="2" name="Failed suite [TestSuite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test name="SmokeTest(failed)">
+    <classes>
+      <class name="com.invoke.test.TestA">
+        <methods>
+          <include name="setup"/>
+          <include name="clearup"/>
+          <include name="test2"/>
+          <include name="test3"/>
+        </methods>
+      </class> <!-- com.invoke.test.TestA -->
+      <class name="com.invoke.test.TestB">
+        <methods>
+          <include name="setup"/>
+          <include name="clearup"/>
+        </methods>
+      </class> <!-- com.invoke.test.TestB -->
+    </classes>
+  </test> <!-- SmokeTest(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="TestSuite" verbose="2">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test name="SmokeTest" preserve-order="true">
+    <classes>
+      <class name="com.invoke.test.TestA">
+        <methods>
+          <include name="test2"/>
+          <include name="test3"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

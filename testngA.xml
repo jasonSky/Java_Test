@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuite" verbose="2">
+	<listeners>
+	    <listener class-name="org.uncommons.reportng.HTMLReporter" />
+	</listeners>
+	<test name="SmokeTest" preserve-order="true">
+	    <classes>
+	        <class name="com.invoke.test.TestA">
+				<methods>
+					<include name="test1" />
+					<include name="test2" />
+					<include name="test3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="2est" preserve-order="true">
+	    <classes>
+	        <class name="com.invoke.test.TestB">
+				<methods>
+					<include name="test1" />
+					<include name="test2" />
+					<include name="test3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

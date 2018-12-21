@@ -1,0 +1,176 @@
+INPUT> Microsoft Windows [�汾 6.1.7601]
+INPUT> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT> 
+INPUT> E:\workspace_git\Java_Test>cd C:/Users
+INPUT> 
+INPUT> E:\workspace_git\Java_Test>echo aaaa
+INPUT> aaaa
+INPUT> 
+INPUT> Microsoft Windows [�汾 6.1.7601]
+INPUT> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT> 
+INPUT> E:\workspace_git\Java_Test>C:
+INPUT> 
+INPUT> C:\>cd C:/Users
+INPUT> 
+INPUT> C:\Users>echo aaaa
+INPUT> aaaa
+INPUT> 
+INPUT> Microsoft Windows [�汾 6.1.7601]
+INPUT> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT> 
+INPUT> E:\workspace_git\Java_Test>C:
+INPUT> 
+INPUT> C:\>cd C:/Users
+INPUT> 
+INPUT> C:\Users>echo aaaa
+INPUT> aaaa
+INPUT> 
+INPUT> Microsoft Windows [�汾 6.1.7601]
+INPUT> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT> 
+INPUT> E:\workspace_git\Java_Test>C:
+INPUT> 
+INPUT> C:\>cd C:/Users
+INPUT> 
+INPUT> C:\Users>echo aaaa
+INPUT> aaaa
+INPUT> 
+INPUT> Microsoft Windows [�汾 6.1.7601]
+INPUT> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT> 
+INPUT> E:\workspace_git\Java_Test>C:
+INPUT> 
+INPUT> C:\>cd C:/Users
+INPUT> 
+INPUT> C:\Users>echo aaaa
+INPUT> aaaa
+INPUT> 
+INPUT> Microsoft Windows [�汾 6.1.7601]
+INPUT> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT> 
+INPUT> E:\workspace_git\Java_Test>C:
+INPUT> 
+INPUT> C:\>cd C:/Users
+INPUT> 
+INPUT> C:\Users>echo aaaa
+INPUT> aaaa
+INPUT> 
+INPUT> C:\Users>exit
+INPUT> Microsoft Windows [�汾 6.1.7601]
+INPUT> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT> 
+INPUT> E:\workspace_git\Java_Test>C:
+INPUT> 
+INPUT> C:\>cd C:/Users
+INPUT> 
+INPUT> C:\Users>echo aaaa
+INPUT> aaaa
+INPUT> 
+INPUT> C:\Users>exit
+INPUT1> Microsoft Windows [�汾 6.1.7601]
+INPUT1> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT1> 
+INPUT1> E:\workspace_git\Java_Test>C:
+INPUT1> 
+INPUT1> C:\>cd C:/Users
+INPUT1> 
+INPUT1> C:\Users>echo aaaa
+INPUT1> aaaa
+INPUT1> 
+INPUT1> C:\Users>exit
+INPUT2> Microsoft Windows [�汾 6.1.7601]
+INPUT2> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT2> 
+INPUT2> E:\workspace_git\Java_Test>C:
+INPUT2> 
+INPUT2> C:\>cd C:/Users
+INPUT2> 
+INPUT2> C:\Users>echo aaaa
+INPUT2> aaaa
+INPUT2> 
+INPUT2> C:\Users>exit
+INPUT1> Microsoft Windows [�汾 6.1.7601]
+INPUT1> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT1> 
+INPUT1> E:\workspace_git\Java_Test>C:
+INPUT1> 
+INPUT1> C:\>cd C:/Users
+INPUT1> 
+INPUT1> C:\Users>echo aaaa
+INPUT1> aaaa
+INPUT1> 
+INPUT1> C:\Users>exit
+INPUT2> Microsoft Windows [�汾 6.1.7601]
+INPUT2> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT2> 
+INPUT2> E:\workspace_git\Java_Test>C:
+INPUT2> 
+INPUT2> C:\>cd C:/Users
+INPUT2> 
+INPUT2> C:\Users>echo aaaa
+INPUT2> aaaa
+INPUT2> 
+INPUT2> C:\Users>exit
+INPUT1> Microsoft Windows [�汾 6.1.7601]
+INPUT1> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT1> 
+INPUT1> E:\workspace_git\Java_Test>C:
+INPUT1> 
+INPUT1> C:\>cd C:/Users
+INPUT1> 
+INPUT1> C:\Users>ping www.baidu.com
+INPUT1> 
+INPUT1> ���� Ping www.a.shifen.com [61.135.169.125] ���� 32 �ֽڵ����:
+INPUT1> ���� 61.135.169.125 �Ļظ�: �ֽ�=32 ʱ��=1ms TTL=55
+INPUT1> ���� 61.135.169.125 �Ļظ�: �ֽ�=32 ʱ��=1ms TTL=55
+INPUT1> ���� 61.135.169.125 �Ļظ�: �ֽ�=32 ʱ��=1ms TTL=55
+INPUT1> ���� 61.135.169.125 �Ļظ�: �ֽ�=32 ʱ��=1ms TTL=55
+INPUT1> 
+INPUT1> 61.135.169.125 �� Ping ͳ����Ϣ:
+INPUT1>     ��ݰ�: �ѷ��� = 4���ѽ��� = 4����ʧ = 0 (0% ��ʧ)��
+INPUT1> ���г̵Ĺ���ʱ��(�Ժ���Ϊ��λ):
+INPUT1>     ��� = 1ms��� = 1ms��ƽ�� = 1ms
+INPUT1> 
+INPUT1> C:\Users>exit
+INPUT2> Microsoft Windows [�汾 6.1.7601]
+INPUT2> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT2> 
+INPUT2> E:\workspace_git\Java_Test>C:
+INPUT2> 
+INPUT2> C:\>cd C:/Users
+INPUT2> 
+INPUT2> C:\Users>ping www.baidu.com
+INPUT2> 
+INPUT2> ���� Ping www.a.shifen.com [61.135.169.125] ���� 32 �ֽڵ����:
+INPUT2> ���� 61.135.169.125 �Ļظ�: �ֽ�=32 ʱ��=1ms TTL=55
+INPUT2> ���� 61.135.169.125 �Ļظ�: �ֽ�=32 ʱ��=1ms TTL=55
+INPUT2> ���� 61.135.169.125 �Ļظ�: �ֽ�=32 ʱ��=1ms TTL=55
+INPUT2> ���� 61.135.169.125 �Ļظ�: �ֽ�=32 ʱ��=1ms TTL=55
+INPUT2> 
+INPUT2> 61.135.169.125 �� Ping ͳ����Ϣ:
+INPUT2>     ��ݰ�: �ѷ��� = 4���ѽ��� = 4����ʧ = 0 (0% ��ʧ)��
+INPUT2> ���г̵Ĺ���ʱ��(�Ժ���Ϊ��λ):
+INPUT2>     ��� = 1ms��� = 1ms��ƽ�� = 1ms
+INPUT2> 
+INPUT2> C:\Users>exit
+INPUT1> Microsoft Windows [�汾 6.1.7601]
+INPUT1> ��Ȩ���� (c) 2009 Microsoft Corporation����������Ȩ��
+INPUT1> 
+INPUT1> E:\workspace_git\Java_Test>C:
+INPUT1> 
+INPUT1> C:\>cd C:/Users
+INPUT1> 
+INPUT1> C:\Users>ping www.baidu.com
+INPUT1> 
+INPUT1> ���� Ping www.a.shifen.com [61.135.169.121] ���� 32 �ֽڵ����:
+INPUT1> ���� 61.135.169.121 �Ļظ�: �ֽ�=32 ʱ��=1ms TTL=55
+INPUT1> ���� 61.135.169.121 �Ļظ�: �ֽ�=32 ʱ��=1ms TTL=55
+INPUT1> ���� 61.135.169.121 �Ļظ�: �ֽ�=32 ʱ��=1ms TTL=55
+INPUT1> ���� 61.135.169.121 �Ļظ�: �ֽ�=32 ʱ��=1ms TTL=55
+INPUT1> 
+INPUT1> 61.135.169.121 �� Ping ͳ����Ϣ:
+INPUT1>     ��ݰ�: �ѷ��� = 4���ѽ��� = 4����ʧ = 0 (0% ��ʧ)��
+INPUT1> ���г̵Ĺ���ʱ��(�Ժ���Ϊ��λ):
+INPUT1>     ��� = 1ms��� = 1ms��ƽ�� = 1ms
+INPUT1> 

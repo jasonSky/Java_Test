@@ -1,0 +1,26 @@
+Fmn_srvIp1.1.2
+$psIp1.1.2 = $gv1
+$nsUrl = $gv2
+
+send reg_req_from_mn -psIp $psIp1.1.2 -regInfo 1342898337,qwcjl@sina.com:806092946,xitang@126.com
+recv reg_rsp_from_ps -t 30 -hid $hid -regId $regId1 -appId $appId -code $code -x recv_err
+print result: hid=$hid appId=$appId regId=$regId1 code=$code
+if $code != 0:0 then
+	print FAILED, code should be 0:0
+	return -1
+endi
+sleep 180
+$cnt = 1
+while $cnt < 10
+	send post_req_from_as -url $nsUrl -regId $regId1 -regIdIdx 1 -body notification_for_application_1342898337 -sender qwcjl@sina.com -passwd 123654
+	recv deliver_from_ps -t 60 -appId $appId -msgId $msgId -body $body -x recv_err
+	print result: appId=$appId msgId=$msgId body=$body
+	send deliver_rsp_from_mn -appId $appId -msgId $msgId
+	sleep 180
+endw
+
+return
+
+recv_err:
+	print FAILED, should receive rsp msg
+	return -1
