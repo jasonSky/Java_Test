@@ -53,6 +53,11 @@
     <artifactId>tess4j</artifactId>
     <version>3.2.1</version>
 </dependency>
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi</artifactId>
+    <version>3.9</version>
+</dependency>
 	<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
@@ -89,7 +94,18 @@
             <artifactId>javase</artifactId>  
             <version>3.0.0</version>  
         </dependency> 
-        
+        <!-- 视频截图 -->
+		<dependency>
+			<groupId>org.bytedeco</groupId>
+			<artifactId>javacv-platform</artifactId>
+			<version>1.4.2</version>
+		</dependency>
+		<!-- gif -->
+		<dependency>
+		    <groupId>com.madgag</groupId>
+		    <artifactId>animated-gif-lib</artifactId>
+		    <version>1.4</version>
+		</dependency>
 		<!-- <dependency >
 			<groupId> com.google.zxing</groupId >
 			<artifactId> javase</artifactId >

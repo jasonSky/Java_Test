@@ -60,6 +60,6 @@ public class QRCodeTest2 {
      }
     
      public static void main(String args[]) throws Exception{
-          simpleGeneralCode("ღ爱你 家敏ღ");
+          simpleGeneralCode("https://weibo.com/u/3798065592/home");
      }
 }

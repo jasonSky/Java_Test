@@ -40,11 +40,11 @@ public class FileHelper {
 		
 	}
 
-	public void writeDataToFile(File fileName, String data) {
+	public void writeDataToFile(String fileName, String data) {
 		BufferedWriter fw = null;
 		try {
 			fw = new BufferedWriter(new OutputStreamWriter(
-					new FileOutputStream(fileName, true), "UTF-8"));
+					new FileOutputStream(new File(fileName), true), "UTF-8"));
 			fw.write("");
 			fw.append(data);
 			fw.newLine();
