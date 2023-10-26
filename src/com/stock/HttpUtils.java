@@ -22,6 +22,7 @@ public class HttpUtils {
 		//System.out.println("urlNameString:" + urlNameString);
 		HttpGet httpget = new HttpGet(urlNameString); 
 		httpget.setHeader("Charset", "UTF-8");
+		httpget.setHeader("referer", "https://finance.sina.com.cn/");
 		
 		HttpResponse response;
 		response = httpClient.execute(httpget);
